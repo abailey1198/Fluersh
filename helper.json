@@ -1,0 +1,11 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"tester"},
+{"type":"table","name":"helper","database":"tester","data":
+[
+{"Name":"me","Date":"date","weight":"weight","age":"age"},
+{"Name":"jane","Date":"12","weight":"100","age":"15"},
+{"Name":"bob","Date":"15","weight":"80","age":"23"}
+]
+}
+]
